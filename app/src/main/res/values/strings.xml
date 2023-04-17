@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">satellite-app</string>
+    <string name="errorMessage">Something went wrong</string>
+    <string name="search">Search</string>
+    <string name="active">Active</string>
+    <string name="passive">Passive</string>
+    <string name="height_mass">Height/Mass</string>
+    <string name="cost">Cost:</string>
+    <string name="last_position">Last Position:</string>
+</resources>
